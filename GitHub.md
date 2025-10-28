@@ -507,7 +507,8 @@ Por otro lado si lo que se busca es sincronizar un repositorio local con uno de 
     $ git remote add origin https://github.com/joeloto/PracticaGit.git
 ```
 
-También si se desea descargar primero lo del repositorio remoto se debe hacer:
+También si se desea descargar primero el contenido del repositorio remoto se debe hacer:
 ```bash
     $ git pull origin master https://github.com/joeloto/PracticaGit.git
 ```
+
